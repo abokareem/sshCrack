@@ -6,11 +6,13 @@
 ```
 pip install paramiko
 pip install IPy
+pip install cryptography==2.4.2
 ```
 
 ## 使用方法
 显示帮助
 ```
+./multi.sh < ip.txt
 python sshcrack -h
 ```
 
